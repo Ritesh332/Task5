@@ -33,3 +33,22 @@
 Here's my captured file:
 
 [View](/capture.pcapng)
+
+## My Findings
+
+ I used various techniques to analyze the packet and extract most of the information from it. Here's a breakdown:
+
+ 1. Protocol Hierarchy Observed
+
+    ![Protocol Hierarchy](screenshots/protocol-hierarchy.png)
+
+    Wireshark’s protocol hierarchy (visible via `Statistics > Protocol Hierarchy`) showed the following types:
+    
+    - **Ethernet II**
+    - **IPv4**
+    - **TCP**
+    - **UDP**
+    - **HTTP**
+    - **DNS**
+    - **Dropbox LAN Sync Protocol (DB-LSP)**
+ 
