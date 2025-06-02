@@ -59,3 +59,7 @@ Here's my captured file:
  3. Filtering captured packets by using multiple protocols
 
     ![Multiple Protocols Filtering](screenshots/mlti-protocol-filtering.png)
+
+The captured network traffic in `capture.pcapng` is predominantly IPv4-based, with a high percentage of TCP traffic, a significant portion of which is encrypted using TLS. There's also a noticeable amount of UDP traffic, mainly consisting of DNS queries and responses, and some Dropbox LAN Sync discovery. The HTTP traffic observed is relatively small in proportion to the total traffic but provides clear examples of web requests and responses. The presence of both HTTP and TLS within the TCP traffic suggests a mix of unencrypted and encrypted web communication.
+
+---
