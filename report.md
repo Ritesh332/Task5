@@ -58,4 +58,4 @@ Here's my captured file:
     
  3. Filtering captured packets by using multiple protocols
 
-    ![Multiple Protocols Filtering](screenshots/multi-protocol-filtering.png)
+    ![Multiple Protocols Filtering](screenshots/mlti-protocol-filtering.png)
