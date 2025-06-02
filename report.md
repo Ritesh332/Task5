@@ -52,3 +52,10 @@ Here's my captured file:
     - **DNS**
     - **Dropbox LAN Sync Protocol (DB-LSP)**
  
+ 2. Filtering captured packets by protocol
+
+    ![Packet Filter](screenshots/packet-filtering.png)
+    
+ 3. Filtering captured packets by using multiple protocols
+
+    ![Multiple Protocols Filtering](screenshots/multi-protocol-filtering.png)
