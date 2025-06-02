@@ -20,7 +20,7 @@
 
  -  Select an interface and click the shark fin icon to begin capturing.
    
-   ![Capture Packets](screenshots/packet-capture.png)
+   ![Capture Packets](screenshots/packet-cature.png)
 
  - After capturing, click the red square on the toolbar to stop the capture.
  - Go to File > Save As (or press Ctrl + S).
@@ -31,4 +31,5 @@
  - Click Save.
 
 Here's my captured file:
+
 [View](/capture.pcapng)
